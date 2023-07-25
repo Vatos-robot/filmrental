@@ -1,0 +1,15 @@
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.csproj.AssemblyReference.cache
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.AssemblyInfoInputs.cache
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.AssemblyInfo.cs
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.csproj.CoreCompileInputs.cache
+/Users/hugobarbosa/Desktop/ESGI/filmrental/bin/Debug/net7.0/filmrental
+/Users/hugobarbosa/Desktop/ESGI/filmrental/bin/Debug/net7.0/filmrental.deps.json
+/Users/hugobarbosa/Desktop/ESGI/filmrental/bin/Debug/net7.0/filmrental.runtimeconfig.json
+/Users/hugobarbosa/Desktop/ESGI/filmrental/bin/Debug/net7.0/filmrental.dll
+/Users/hugobarbosa/Desktop/ESGI/filmrental/bin/Debug/net7.0/filmrental.pdb
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.dll
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/refint/filmrental.dll
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.pdb
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/filmrental.genruntimeconfig.cache
+/Users/hugobarbosa/Desktop/ESGI/filmrental/obj/Debug/net7.0/ref/filmrental.dll
